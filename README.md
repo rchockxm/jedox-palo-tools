@@ -5,7 +5,10 @@ Jedox Palo Server testing tools.
 
 <h2><a name="about" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>About</h2>
 
+Jedox Palo Server tools, you can control server by using SOAP or commandline based on Windows. 
+
 <img src="http://i.imgur.com/4Oh8Dzc.jpg" />
+<img src="http://i.imgur.com/KuCwZAF.jpg" />
 
 <h2><a name="example" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>Example</h2>
 
