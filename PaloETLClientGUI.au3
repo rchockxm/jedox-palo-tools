@@ -12,6 +12,14 @@
 #AutoIt3Wrapper_Res_Fileversion=1.1.0.0
 #AutoIt3Wrapper_Res_LegalCopyright=Silence Unlimited, Inc
 #AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker
+#AutoIt3Wrapper_Res_Field=OriginalFilename|Palo ETL Server Commandline Tools
+#AutoIt3Wrapper_Res_Field=ProductName|Palo ETL Server Commandline Tools
+#AutoIt3Wrapper_Res_Field=ProductVersion|1.1.0.0
+#AutoIt3Wrapper_Run_After=Output\Tools\ResHacker.exe -delete %out%, %out%, Dialog, 1000,
+#AutoIt3Wrapper_Run_After=Output\Tools\ResHacker.exe -delete %out%, %out%, Menu, 166,
+#AutoIt3Wrapper_Run_After=Output\Tools\ResHacker.exe -delete %out%, %out%, Icon, 162,
+#AutoIt3Wrapper_Run_After=Output\Tools\ResHacker.exe -delete %out%, %out%, Icon, 164,
+#AutoIt3Wrapper_Run_After=Output\Tools\ResHacker.exe -delete %out%, %out%, Icon, 169,
 #AutoIt3Wrapper_Run_Au3Stripper=y
 #Au3Stripper_Parameters=/striponly
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
