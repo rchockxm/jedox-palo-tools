@@ -284,7 +284,7 @@ Func GetSpeciedFile($V_Path, $C_IDs)
 	WEnd
 
 	FileClose($File)
-	GUICtrlSetData($Label_S, "Succees!!")
+	GUICtrlSetData($Label_S, "Success!!")
 EndFunc
 
 Func SetLabelFontURL($C_IDs)
