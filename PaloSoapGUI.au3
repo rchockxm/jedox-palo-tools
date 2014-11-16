@@ -174,7 +174,7 @@ Func LoadNodeFromXML()
 			Next
 	EndSwitch
 
-	GUICtrlSetData($Label_S, "Succees!!")
+	GUICtrlSetData($Label_S, "Success!!")
 EndFunc
 
 Func ShowMenu($hWnd, $CtrlID, $nContextID)
