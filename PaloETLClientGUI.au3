@@ -1,6 +1,17 @@
 ; Code by Rchockxm (rchockxm.silver@gmail.com)
 
 #NoTrayIcon
+#pragma compile(ExecLevel, highestavailable)
+#pragma compile(Compatibility, win7)
+#pragma compile(UPX, False)
+#pragma compile(FileDescription, Palo ETL Server Tools)
+#pragma compile(ProductName, PaloETLClientGUI)
+#pragma compile(ProductVersion, 1.1)
+#pragma compile(FileVersion, 1.1.0.0, 1.1.0.0)
+#pragma compile(LegalCopyright, Silence Unlimited, Inc)
+#pragma compile(LegalTrademarks, '')
+#pragma compile(CompanyName, 'Silence Unlimited, Inc')
+
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Outfile=Palo_ETL_Client_Tools.exe
 #AutoIt3Wrapper_Outfile_x64=Palo_ETL_Client_Tools64.exe
