@@ -24,7 +24,7 @@ Jedox Palo Server tools, you can control server by using SOAP or commandline bas
 </soapenv:Envelope>
 ```
 
-<h2><a name="about" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
+<h2><a name="changelog" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
 
 <h4>1.1</h4/>
 - Added Autoit 3.3.12.0 compiler supported. 
