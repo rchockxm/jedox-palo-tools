@@ -1,6 +1,7 @@
 ; Code by Rchockxm (rchockxm.silver@gmail.com)
 
 #NoTrayIcon
+#pragma compile(Out, PaloSoapGUI.exe)
 #pragma compile(ExecLevel, highestavailable)
 #pragma compile(Compatibility, win7)
 #pragma compile(UPX, False)
