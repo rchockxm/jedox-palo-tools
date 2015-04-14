@@ -3,6 +3,8 @@ jedox-palo-tools
 
 Jedox Palo Server testing tools.
 
+<img src="https://img.shields.io/dub/l/vibe-d.svg" />
+
 <h2><a name="about" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>About</h2>
 
 Jedox Palo Server tools, you can control server by using SOAP or commandline based on Windows. 
