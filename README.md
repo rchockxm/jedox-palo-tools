@@ -12,7 +12,7 @@ Jedox Palo Server tools, you can control server by using SOAP or commandline bas
 <img src="http://i.imgur.com/4Oh8Dzc.jpg" />
 <img src="http://i.imgur.com/KuCwZAF.jpg" />
 
-<h2><a name="example" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>Example</h2>
+<h2><a name="example" class="anchor" href="#example"><span class="mini-icon mini-icon-link"></span></a>Example</h2>
 
 ```xml
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:etl="http://ns.jedox.com/ETL-Server">
@@ -26,7 +26,7 @@ Jedox Palo Server tools, you can control server by using SOAP or commandline bas
 </soapenv:Envelope>
 ```
 
-<h2><a name="changelog" class="anchor" href="#about"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
+<h2><a name="changelog" class="anchor" href="#changelog"><span class="mini-icon mini-icon-link"></span></a>Changelog</h2>
 
 <h4>1.1</h4/>
 - Added Autoit 3.3.12.0 compiler supported. 
