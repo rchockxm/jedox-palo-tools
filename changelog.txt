@@ -1,0 +1,4 @@
+Version 1.1
+
+- Added Autoit 3.3.12.0 compiler supported.
+- Fixed some bugs.
